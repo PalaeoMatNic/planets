@@ -3,4 +3,4 @@ Mars might be a great base, the two moons might be a problem for wolfman.
 It could be a bit chilly.
 Venus is warmer, it could be a good base.
 
-a new line local copy
+we removed the conflicting lines
